@@ -23,7 +23,7 @@ exports.livenet = {
     version: 1,
     prev_hash: buffertools.fill(new Buffer(32), 0),
     timestamp: 1488279877,
-    bits: 520159231,
+    bits: 504365055,
   },
   dnsSeeds: [
     '94.176.238.60',
